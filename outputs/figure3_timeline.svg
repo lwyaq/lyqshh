@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="30" font-size="18">Figure 3 Multi-wave interception timeline</text>
+<rect x="80.0" y="80" width="155.5" height="28" fill="#1f77b4"/>
+<text x="85.0" y="99" font-size="12" fill="white">Patrol transit</text>
+<rect x="235.5" y="135" width="256.5" height="28" fill="#2ca02c"/>
+<text x="240.5" y="154" font-size="12" fill="white">Patrol cycle</text>
+<rect x="230.0" y="190" width="162.5" height="28" fill="#d62728"/>
+<text x="235.0" y="209" font-size="12" fill="white">Wave1</text>
+<rect x="380.0" y="245" width="162.5" height="28" fill="#ff7f0e"/>
+<text x="385.0" y="264" font-size="12" fill="white">Wave2</text>
+<rect x="530.0" y="300" width="162.5" height="28" fill="#9467bd"/>
+<text x="535.0" y="319" font-size="12" fill="white">Wave3</text>
+<line x1="80" y1="390" x2="760" y2="390" stroke="black"/>
+<text x="80" y="420" font-size="12">minutes after mission start</text>
+</svg>

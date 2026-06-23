@@ -1,0 +1,40 @@
+{
+  "sector_angle_min_deg": 30,
+  "sector_angle_max_deg": 150,
+  "middle_intercept_radius_km": 500,
+  "outer_intercept_radius_km": 700,
+  "threat_initial_radius_km": 1350,
+  "threat_speed_kmh": 1200,
+  "patrol_altitude_km": 10,
+  "sensor_radius_km": 60,
+  "sensor_half_angle_deg": 60,
+  "takeoff_wave_duration_min": 10,
+  "takeoff_wave_max_aircraft": 12,
+  "takeoff_wave_interval_min": 15,
+  "return_wave_duration_min": 15,
+  "turnaround_time_min": 120,
+  "fly1": {
+    "min_turn_radius_km": 0.7,
+    "max_speed_kmh": 2000,
+    "patrol_speed_kmh": 800,
+    "transit_fuel_tph": 3.5,
+    "patrol_fuel_tph": 2.5,
+    "intercept_fuel_tph": 3.5,
+    "max_fuel_t": 8,
+    "ceiling_km": 15,
+    "engagement_range_km": 100,
+    "cost_10m_cny": 60
+  },
+  "zhi1": {
+    "min_turn_radius_km": 0.6,
+    "max_speed_kmh": 1600,
+    "patrol_speed_kmh": 650,
+    "transit_fuel_tph": 1.2,
+    "patrol_fuel_tph": 0.5,
+    "intercept_fuel_tph": 1.2,
+    "max_fuel_t": 3.5,
+    "ceiling_km": 12,
+    "engagement_range_km": 100,
+    "cost_10m_cny": 8
+  }
+}
